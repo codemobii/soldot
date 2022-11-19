@@ -9,12 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@jup-ag/api": "^3.0.3",
+    "@metaplex-foundation/js": "^0.17.6",
+    "@solana/spl-token-registry": "^0.2.4574",
+    "@solana/wallet-adapter-react": "^0.15.24",
+    "@solana/wallet-adapter-react-ui": "^0.9.22",
+    "@solana/wallet-adapter-wallets": "^0.19.5",
+    "@solana/web3.js": "^1.66.2",
     "@types/node": "18.11.9",
     "@types/react": "18.0.25",
     "@types/react-dom": "18.0.9",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
     "next": "13.0.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^4.6.0",
     "typescript": "4.9.3"
   }
 }
